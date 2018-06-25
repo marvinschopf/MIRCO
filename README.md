@@ -52,7 +52,8 @@ To see the available theme selectors, view
 
 ## Author
 
-Evan Lucas
+[Evan Lucas](https://github.com/evanlucas)
+[MagicMarvMan](https://github.com/MagicMarvMan) (this fork)
 
 ## License
 
