@@ -16,7 +16,7 @@
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "com.evanlucas.eyearesee",
+    "appId": "de.marvnet.mirco",
     "asar": false,
     "mac": {
       "category": "public.app-category.developer-tools"
@@ -57,13 +57,13 @@
     "delegate-dom"
   ],
   "license": "MIT",
-  "author": "Evan Lucas <evanlucas@me.com>",
+  "author": "MagicMarvMan <>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evanlucas/eyearesee"
+    "url": "https://github.com/MagicMarvMan/MIRCO"
   },
-  "homepage": "https://github.com/evanlucas/eyearesee",
+  "homepage": "https://github.com/MagicMarvMan/MIRCO",
   "bugs": {
-    "url": "https://github.com/evanlucas/eyearesee/issues"
+    "url": "https://github.com/MagicMarvMan/MIRCO/issues"
   }
 }
